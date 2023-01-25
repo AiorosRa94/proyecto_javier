@@ -2,7 +2,7 @@ import 'dart:convert';
 
 import 'package:flutter/foundation.dart';
 import 'package:http/http.dart' as http;
-import 'package:proyecto_javier/Apis/Auth/Estructuras/EstructuraAuth.dart';
+import 'package:proyecto_javier/Pages/ApisCall/Apis/Auth/Estructuras/EstructuraAuth.dart';
 
 class ApiAuth {
   Future<EstructuraAuth?> Auth(String usuario, String contrasenia) async {

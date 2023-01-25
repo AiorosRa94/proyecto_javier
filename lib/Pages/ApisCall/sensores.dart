@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:proyecto_javier/Apis/Sensores/ApiSensores.dart';
+import 'package:proyecto_javier/Pages/ApisCall/Apis/Sensores/ApiSensores.dart';
 
 class Sensores extends StatelessWidget {
   String accessToken;

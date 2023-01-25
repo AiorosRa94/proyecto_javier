@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
-import 'package:proyecto_javier/Apis/Auth/ApiAuth.dart';
-import 'package:proyecto_javier/Apis/Auth/Estructuras/EstructuraAuth.dart';
-import 'package:proyecto_javier/Pages/sensores.dart';
+import 'package:proyecto_javier/Pages/ApisCall/Apis/Auth/ApiAuth.dart';
+import 'package:proyecto_javier/Pages/ApisCall/Apis/Auth/Estructuras/EstructuraAuth.dart';
+import 'package:proyecto_javier/Pages/ApisCall/sensores.dart';
 
 class Login extends StatelessWidget {
   const Login({super.key});
